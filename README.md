@@ -20,3 +20,5 @@ It contains the api's for
 4. List Loan Applications
 
 Repay Loan functionality is not implemented currently due to time issues. But I can explain the functionality during further rounds :)
+
+Laravel Passport is used for Authentication. 
